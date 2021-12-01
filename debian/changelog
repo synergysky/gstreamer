@@ -1,3 +1,9 @@
+gstreamer1.0 (1.17.2+20211201synergysky-1) pexip-bullseye; urgency=medium
+
+  * branch tagging
+
+ -- Egil Hasting <eh@synergysky.com>  Wed, 01 Dec 2021 12:46:30 +0200
+ 
 gstreamer1.0 (1.17.2+20210820pexip-1) pexip-bullseye; urgency=medium
 
   * Build for pexip-bullseye.
